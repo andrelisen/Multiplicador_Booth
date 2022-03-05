@@ -1,0 +1,125 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\andre\Documents\Universidade\Sistemas Embarcados\Semi Presenciais\ASP1\Multiplicador Booth\simulation\qsim
+vMult_Booth_PC
+Z1 IDz[A[NAQYlQBGm]cX_IW01
+Z2 VGXX;4Kml;m2lzAgabY69n3
+Z3 dC:\Users\andre\Documents\Universidade\Sistemas Embarcados\Semi Presenciais\ASP1\Multiplicador Booth\simulation\qsim
+Z4 w1641764000
+Z5 8Mult_Booth_Top.vo
+Z6 FMult_Booth_Top.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -work|work|Mult_Booth_Top.vo|
+Z9 o-work work -O0
+Z10 n@mult_@booth_@p@c
+Z11 !s100 mAkKiQ5Qd5`XFSfczWa:S3
+Z12 !s108 1641764001.514000
+Z13 !s107 Mult_Booth_Top.vo|
+!i10b 1
+!s85 0
+!s101 -O0
+vMult_Booth_PC_vlg_vec_tst
+Z14 !s100 QUmJ:]Ea5b[=[R3LXW91K0
+Z15 I`ZKm]W:m8KOECAkMNhnfB2
+Z16 V8JCP>DNCBNOGZ1be:4ajM1
+R3
+R4
+Z17 8Mult_Booth_Top.vt
+Z18 FMult_Booth_Top.vt
+L0 29
+R7
+r1
+31
+Z19 !s90 -work|work|Mult_Booth_Top.vt|
+R9
+Z20 n@mult_@booth_@p@c_vlg_vec_tst
+Z21 !s108 1641764001.623000
+Z22 !s107 Mult_Booth_Top.vt|
+!i10b 1
+!s85 0
+!s101 -O0
+vMult_Booth_PO
+Z23 !s100 4W9G8^C@`hhgVCZIWH[hE0
+Z24 IHCV7:a`i6zihnc>_Vkil20
+Z25 VPeg2g4:LBT<[VfDFAo81[3
+R3
+Z26 w1641764026
+R5
+R6
+L0 31
+R7
+r1
+31
+R8
+R9
+Z27 n@mult_@booth_@p@o
+!i10b 1
+!s85 0
+Z28 !s108 1641764026.915000
+R13
+!s101 -O0
+vMult_Booth_PO_vlg_check_tst
+!i10b 1
+Z29 !s100 BKK28AL`I82oNaO3Vl;lQ1
+Z30 I<I[18c8F6g1OHNf:RLZ@]3
+Z31 VbfVJDOcn:z_NSkj3o[HMm2
+R3
+Z32 w1641764025
+R17
+R18
+L0 65
+R7
+r1
+!s85 0
+31
+Z33 !s108 1641764027.040000
+Z34 !s107 Mult_Booth_Top.vt|
+R19
+!s101 -O0
+R9
+Z35 n@mult_@booth_@p@o_vlg_check_tst
+vMult_Booth_PO_vlg_sample_tst
+!i10b 1
+Z36 !s100 52j`N7Og3kodX_K?hcSQd0
+Z37 I4`2IBcNK0gNJb2fSLk1__1
+Z38 VB]RUl6eMWo56]=T6k?E<M0
+R3
+R32
+R17
+R18
+L0 29
+R7
+r1
+!s85 0
+31
+R33
+R34
+R19
+!s101 -O0
+R9
+Z39 n@mult_@booth_@p@o_vlg_sample_tst
+vMult_Booth_PO_vlg_vec_tst
+!i10b 1
+!s100 Z8?b7:B=L7USKn4egHDFA0
+IU3_Hi@ISN>EBzlM@g_GMP3
+Z40 VM0F7KSVRkjj_OYi5=>=L53
+R3
+R32
+R17
+R18
+Z41 L0 419
+R7
+r1
+!s85 0
+31
+R33
+R34
+R19
+!s101 -O0
+R9
+Z42 n@mult_@booth_@p@o_vlg_vec_tst

@@ -1,0 +1,116 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\andre\Documents\Universidade\Sistemas Embarcados\Semi Presenciais\ASP1\Multiplicador Booth\simulation\modelsim
+Emult_booth_pc
+Z1 w1641775740
+Z2 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z3 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z4 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z5 dC:\Users\andre\Documents\Universidade\Sistemas Embarcados\Semi Presenciais\ASP1\Multiplicador Booth\simulation\modelsim
+Z6 8C:/Users/andre/Documents/Universidade/Sistemas Embarcados/Semi Presenciais/ASP1/Multiplicador Booth/Mult_Booth_PC.vhd
+Z7 FC:/Users/andre/Documents/Universidade/Sistemas Embarcados/Semi Presenciais/ASP1/Multiplicador Booth/Mult_Booth_PC.vhd
+l0
+L6
+Va3UiRBI9:c>BY<oYmlO[T2
+Z8 OV;C;10.1d;51
+31
+Z9 !s108 1641941566.421000
+Z10 !s90 -reportprogress|300|-93|-work|work|C:/Users/andre/Documents/Universidade/Sistemas Embarcados/Semi Presenciais/ASP1/Multiplicador Booth/Mult_Booth_PC.vhd|
+Z11 !s107 C:/Users/andre/Documents/Universidade/Sistemas Embarcados/Semi Presenciais/ASP1/Multiplicador Booth/Mult_Booth_PC.vhd|
+Z12 o-93 -work work -O0
+Z13 tExplicit 1
+!s100 @EHRf[z`>QPCNAogocEM50
+!i10b 1
+Artl
+R2
+R3
+R4
+DEx4 work 13 mult_booth_pc 0 22 a3UiRBI9:c>BY<oYmlO[T2
+l28
+L18
+Vm8Le9;HHSRXc^MJC`AFE53
+R8
+31
+R9
+R10
+R11
+R12
+R13
+!s100 <Sb5mQh<g0Jd0M1>KQKje2
+!i10b 1
+Emult_booth_po
+Z14 w1641763185
+R2
+R3
+R4
+R5
+Z15 8C:/Users/andre/Documents/Universidade/Sistemas Embarcados/Semi Presenciais/ASP1/Multiplicador Booth/Mult_Booth_PO.vhd
+Z16 FC:/Users/andre/Documents/Universidade/Sistemas Embarcados/Semi Presenciais/ASP1/Multiplicador Booth/Mult_Booth_PO.vhd
+l0
+L6
+V7Z<lVIN]HXH[lHiZX?bh?2
+R8
+31
+Z17 !s108 1641941561.402000
+Z18 !s90 -reportprogress|300|-93|-work|work|C:/Users/andre/Documents/Universidade/Sistemas Embarcados/Semi Presenciais/ASP1/Multiplicador Booth/Mult_Booth_PO.vhd|
+Z19 !s107 C:/Users/andre/Documents/Universidade/Sistemas Embarcados/Semi Presenciais/ASP1/Multiplicador Booth/Mult_Booth_PO.vhd|
+R12
+R13
+!s100 ^J?CkXYbo7lh]g<km_e;70
+!i10b 1
+Artl
+R2
+R3
+R4
+DEx4 work 13 mult_booth_po 0 22 7Z<lVIN]HXH[lHiZX?bh?2
+l32
+L24
+VW8EcTCc=?K5oIT`ZeC0QH0
+R8
+31
+R17
+R18
+R19
+R12
+R13
+!s100 oa]eLm0^LDiOoY9KV<;al0
+!i10b 1
+Emult_booth_top
+Z20 w1641764688
+R2
+R3
+R4
+R5
+Z21 8C:/Users/andre/Documents/Universidade/Sistemas Embarcados/Semi Presenciais/ASP1/Multiplicador Booth/Mult_Booth_Top.vhd
+Z22 FC:/Users/andre/Documents/Universidade/Sistemas Embarcados/Semi Presenciais/ASP1/Multiplicador Booth/Mult_Booth_Top.vhd
+l0
+L5
+V8i1]=595bikH7MDB]b^eJ2
+!s100 >15:h^5H4NRkba>h4LDcY1
+R8
+31
+!i10b 1
+Z23 !s108 1641941569.001000
+Z24 !s90 -reportprogress|300|-93|-work|work|C:/Users/andre/Documents/Universidade/Sistemas Embarcados/Semi Presenciais/ASP1/Multiplicador Booth/Mult_Booth_Top.vhd|
+Z25 !s107 C:/Users/andre/Documents/Universidade/Sistemas Embarcados/Semi Presenciais/ASP1/Multiplicador Booth/Mult_Booth_Top.vhd|
+R12
+R13
+Artl
+R2
+R3
+R4
+DEx4 work 14 mult_booth_top 0 22 8i1]=595bikH7MDB]b^eJ2
+l57
+L22
+VFGa6:6d[AGa1DZKkzQ@S72
+!s100 6a@]b4[;9YKengSW:O6Ec2
+R8
+31
+!i10b 1
+R23
+R24
+R25
+R12
+R13

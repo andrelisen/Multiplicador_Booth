@@ -1,0 +1,48 @@
+# vsim +altera -do Mult_Booth_Top_run_msim_rtl_vhdl.do -l msim_transcript -gui work.testbench1 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.testbench1(tb_multiplicador)
+# Loading work.mult_booth_top(rtl)
+# Loading work.mult_booth_po(rtl)
+# Loading work.mult_booth_pc(rtl)
+# Mult_Booth_Top_run_msim_rtl_vhdl.do 
+# invalid command name "Mult_Booth_Top_run_msim_rtl_vhdl.do"
+add wave -position insertpoint sim:/testbench1/tb_Mult_TOP/*
+vsim +altera -do Mult_Booth_Top_run_msim_rtl_vhdl.do -l msim_transcript -gui work.mult_booth_top
+# vsim +altera -do Mult_Booth_Top_run_msim_rtl_vhdl.do -l msim_transcript -gui work.mult_booth_top 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.mult_booth_top(rtl)
+# Loading work.mult_booth_po(rtl)
+# Loading work.mult_booth_pc(rtl)
+# Mult_Booth_Top_run_msim_rtl_vhdl.do 
+# invalid command name "Mult_Booth_Top_run_msim_rtl_vhdl.do"
+# Compile of Mult_Booth_PC.vhd was successful.
+# Compile of Mult_Booth_PO.vhd was successful.
+# Compile of Mult_Booth_Top.vhd was successful.
+# Compile of tb_multiplicador.vhd was successful.
+# 4 compiles, 0 failed with no errors. 
+vsim +altera -do Mult_Booth_Top_run_msim_rtl_vhdl.do -l msim_transcript -gui work.testbench1
+# vsim +altera -do Mult_Booth_Top_run_msim_rtl_vhdl.do -l msim_transcript -gui work.testbench1 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.testbench1(tb_multiplicador)
+# Loading work.mult_booth_top(rtl)
+# Loading work.mult_booth_po(rtl)
+# Loading work.mult_booth_pc(rtl)
+# Mult_Booth_Top_run_msim_rtl_vhdl.do 
+# invalid command name "Mult_Booth_Top_run_msim_rtl_vhdl.do"
+add wave -position insertpoint sim:/testbench1/tb_Mult_TOP/*
+add wave -position insertpoint sim:/testbench1/tb_Mult_TOP/PC/*
+run
+# Compile of Mult_Booth_PC.vhd was successful.
+# Compile of Mult_Booth_PO.vhd was successful.
+# Compile of Mult_Booth_Top.vhd was successful.
+# Compile of tb_multiplicador.vhd was successful.
+# 4 compiles, 0 failed with no errors. 

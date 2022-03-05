@@ -1,0 +1,6 @@
+# Compile of Mult_Booth_PC.vhd was successful.
+# Compile of Mult_Booth_PO.vhd was successful.
+# Compile of Mult_Booth_Top.vhd was successful.
+# Compile of tb_multiplicador.vhd was successful.
+# 4 compiles, 0 failed with no errors. 
+vsim +altera -do Mult_Booth_Top_run_msim_rtl_vhdl.do -l msim_transcript -gui work.testbench1
